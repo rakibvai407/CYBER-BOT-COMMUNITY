@@ -8,7 +8,7 @@
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
-      "start": "node Rakib.js",
+      "start": "node Ullash.js",
       "login": "node login",
       "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
@@ -29,7 +29,7 @@
       "grandpa academy",
       "cyberbot.top"
   ],
-  "author": "Rakib ッ",
+  "author": "Ullash ッ",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
